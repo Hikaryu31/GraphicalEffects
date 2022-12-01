@@ -1,0 +1,8 @@
+/x64
+*.user
+/.vs
+/.vscode
+/imgui.ini
+/media/*.cache
+
+*.orig
